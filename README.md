@@ -1,4 +1,4 @@
-# 深度学习入门
+# 深度学习入门配套代码
 
 
 
@@ -45,6 +45,7 @@ $ python train_nueralnet.py
 ## 勘误表
 
 本书的勘误信息在以下网址中公开。读者可以在以下网址中查看和提交勘误。
+
 
 http://www.ituring.com.cn/book/1921
 
